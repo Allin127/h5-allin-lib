@@ -1,3 +1,6 @@
 [submodule "h5-lib-base"]
 	path = h5-lib-base
 	url = https://allin127@github.com/Allin127/h5-lib-base.git
+[submodule "h5-lib-ui"]
+	path = h5-lib-ui
+	url = https://allin127@github.com/Allin127/h5-lib-ui.git
